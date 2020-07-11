@@ -1,0 +1,9 @@
+"Method","Name","# requests","# failures","Median response time","Average response time","Min response time","Max response time","Average Content Size","Requests/s"
+"GET","/",15,0,130,2312,125,16221,3079,0.31
+"POST","/",10,0,700,3680,247,29043,2524,0.21
+"GET","/compare.html",2,0,400,761,400,1122,108007,0.04
+"GET","/measure.html",1,0,360,358,358,358,46265,0.02
+"GET","/movers.html",4,0,69,1200,68,4563,3745,0.08
+"GET","/prediction.html",4,0,150,149,89,190,40365,0.08
+"POST","/predictionResult.html",2,1,3300,3858,3283,4432,3461897,0.04
+"None","Total",38,1,190,2276,68,29043,195629,0.79
